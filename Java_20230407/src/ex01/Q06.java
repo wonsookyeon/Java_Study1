@@ -2,7 +2,7 @@ package ex01;
 
 import java.util.Scanner;
 
-//문제6. 첫 문자를 추출하여 대문자인지 소문자인지 확인하는 프로그램 작성
+//문제6. 첫 문자를 추출하여 대문자인지 소문자인지 확인하는 프로그램 작성 ☆☆
 public class Q06 {
 
 	public static void main(String[] args) {
@@ -25,7 +25,6 @@ public class Q06 {
 		else
 			System.out.println("영문자가 아님");
 		
-
 	}
 
 }

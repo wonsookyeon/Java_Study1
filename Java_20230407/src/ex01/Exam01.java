@@ -6,6 +6,7 @@ import java.util.Scanner;
 // 90이상 A, 80이상 B, 70이상 C, 60이상 D, 나머지 F
 public class Exam01 {
 	
+	
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);

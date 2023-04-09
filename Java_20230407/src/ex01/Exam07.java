@@ -6,7 +6,7 @@ import java.util.Scanner;
 //정수하나 입력받아서 1-4, 1학년, 2학년, 3학년, 4학년
 
 public class Exam07 {
-
+	
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
