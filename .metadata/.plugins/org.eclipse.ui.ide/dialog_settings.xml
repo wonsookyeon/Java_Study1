@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\works\works01\Java_20230508"/>
+			<item value="C:\works\works01\Java_20230413"/>
+			<item value="C:\works\works01\Java_20230412"/>
+			<item value="C:\works\works01\Java_20230411"/>
+			<item value="C:\works\works01\Java_20230406"/>
+			<item value="C:\works\works01\Java_20230407"/>
+			<item value="C:\works\works01\Java_20230403"/>
+			<item value="C:\works\works01\Java_20230405"/>
+			<item value="C:\Works\works01\Test"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

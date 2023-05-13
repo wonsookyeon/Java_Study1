@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;oop01.Practice_Extends01&apos; to &apos;Practice_Inheritance01&apos;&#x0D;&#x0A;- Original project: &apos;Practice02_OOP&apos;&#x0D;&#x0A;- Original element: &apos;oop01.Practice_Extends01&apos;&#x0D;&#x0A;- Renamed element: &apos;oop01.Practice_Inheritance01&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Practice_Extends01&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;oop01{Practice_Extends01.java[Practice_Extends01" matchStrategy="1" name="Practice_Inheritance01" qualified="false" references="true" similarDeclarations="false" stamp="1682156521091" textual="false" version="1.0"/>
+</session>

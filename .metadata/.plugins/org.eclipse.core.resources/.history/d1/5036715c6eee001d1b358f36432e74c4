@@ -1,0 +1,52 @@
+package ex02;
+
+interface Shape{
+	double gerArea();
+}
+
+class Rectangle implements Shape{
+	private double width;
+	
+	public Rectangle(double width, double height) {
+		this.width = width;
+		this.height = height;
+	}
+
+	private double height;
+
+	@Override
+	public double gerArea() {
+		return width*height;
+	}
+}
+
+
+class Circle implements Shape{
+	Double radius;
+
+	public Circle(Double radius) {
+		this.radius = radius;
+	}
+
+	@Override
+	public double gerArea() {
+		return radius*radius*Math.PI;
+	}
+}
+
+public class Area {
+
+	public static void main(String[] args) {
+		
+		Shape r = new Rectangle(35.5,45.6);
+		double Area1 = r.gerArea();
+		System.out.println(Area1);
+
+	}
+
+}
+
+
+
+
+
